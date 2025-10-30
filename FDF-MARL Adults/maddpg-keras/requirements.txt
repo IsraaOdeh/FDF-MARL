@@ -1,0 +1,8 @@
+protobuf
+tensorflow
+matplotlib
+numpy
+torch
+agilerl
+gymnasium
+scikit-learn

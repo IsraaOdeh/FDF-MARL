@@ -1,0 +1,4 @@
+protobuf
+tensorflow
+matplotlib
+numpy
